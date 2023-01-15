@@ -5,7 +5,7 @@ body {
     font-weight: bold;
     text-align: center;
     display: flex;
-    align-item: center;
+    align-items: center;
     justify-content: center;
 }
 
